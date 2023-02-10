@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
+import mx.itson.edu.calculadora2.R
 
 class MainActivity : AppCompatActivity() {
 
@@ -85,8 +86,8 @@ class MainActivity : AppCompatActivity() {
                 operacion = 4
             }
 
-        }//when
+        }
 
-    }//fun operacion
+    }
 
-}//Main activity
+}
