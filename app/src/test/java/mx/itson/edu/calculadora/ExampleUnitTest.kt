@@ -1,4 +1,4 @@
-package mx.itson.edu.calculadora2
+package mx.itson.edu.calculadora
 
 import org.junit.Test
 

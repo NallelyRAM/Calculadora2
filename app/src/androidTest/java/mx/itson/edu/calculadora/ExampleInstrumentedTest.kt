@@ -1,4 +1,4 @@
-package mx.itson.edu.calculadora2
+package mx.itson.edu.calculadora
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("mx.itson.edu.calculadora2", appContext.packageName)
+        assertEquals("mx.itson.edu.calculadora", appContext.packageName)
     }
 }

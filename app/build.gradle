@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'mx.itson.edu.calculadora2'
+    namespace 'mx.itson.edu.calculadora'
     compileSdk 33
 
     defaultConfig {
-        applicationId "mx.itson.edu.calculadora2"
+        applicationId "mx.itson.edu.calculadora"
         minSdk 22
         targetSdk 33
         versionCode 1
